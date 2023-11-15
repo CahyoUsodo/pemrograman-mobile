@@ -1,0 +1,145 @@
+{
+  "pantai": [
+    {
+      "nama": "Whitehaven Beach",
+      "lokasi": "Whitsunday Island, Australia",
+      "deskripsi": "Whitehaven Beach dikenal dengan pasir putihnya yang lembut dan air laut biru kristalnya. Terletak di Kepulauan Whitsunday, pantai ini merupakan tujuan wisata yang populer.",
+      "aktivitas": [
+        "Berjemur",
+        "Bermain air",
+        "Snorkeling"
+      ],
+      "fasilitas": [
+        "Toilet",
+        "Kios Makanan"
+      ]
+      "Poster": "https://freeimage.host/i/JC4S6pS"
+    },
+    {
+      "nama": "Anse Lazio",
+      "lokasi": "Praslin, Seychelles",
+      "deskripsi": "Anse Lazio adalah pantai yang indah di Pulau Praslin. Dikelilingi oleh hutan tropis, pantai ini memiliki air jernih dan pasir putih yang menakjubkan.",
+      "aktivitas": [
+        "Berjemur",
+        "Bermain voli pantai",
+        "Berjalan-jalan pantai"
+      ],
+      "fasilitas": [
+        "Restoran",
+        "Sewa perlengkapan pantai"
+      ]
+    },
+    {
+      "nama": "Navagio Beach",
+      "lokasi": "Zakynthos, Yunani",
+      "deskripsi": "Juga dikenal sebagai Shipwreck Beach, Navagio Beach memiliki pasir putih dan air laut biru yang menakjubkan. Terkenal dengan kapal karam di tengah pantai.",
+      "aktivitas": [
+        "Fotografi",
+        "Eksplore kapal karam",
+        "Snorkeling"
+      ],
+      "fasilitas": [
+        "Toko suvenir",
+        "Area parkir"
+      ]
+    },
+    {
+      "nama": "Pink Sands Beach",
+      "lokasi": "Harbour Island, Bahama",
+      "deskripsi": "Pink Sands Beach mendapat namanya dari pasirnya yang berwarna pink. Pantai ini menawarkan pemandangan indah dan air laut yang jernih.",
+      "aktivitas": [
+        "Berjemur",
+        "Renang",
+        "Piknik"
+      ],
+      "fasilitas": [
+        "Kafe pantai",
+        "Penyewaan payung"
+      ]
+    },
+    {
+      "nama": "Hidden Beach",
+      "lokasi": "Marieta Islands, Meksiko",
+      "deskripsi": "Hidden Beach tersembunyi di dalam gua di Kepulauan Marieta. Pantai ini menciptakan suasana eksotis dengan air biru dan pasir putihnya.",
+      "aktivitas": [
+        "Berjemur",
+        "Berjalan-jalan gua",
+        "Menikmati pemandangan"
+      ],
+      "fasilitas": [
+        "Tur kapal ke pulau",
+        "Pemandu wisata"
+      ]
+    },
+    {
+      "nama": "Baia do Sancho",
+      "lokasi": "Fernando de Noronha, Brasil",
+      "deskripsi": "Baia do Sancho adalah pantai di pulau vulkanik yang menawarkan pemandangan bawah laut yang spektakuler. Pantai ini dinobatkan sebagai salah satu yang terbaik di dunia.",
+      "aktivitas": [
+        "Snorkeling",
+        "Berjemur",
+        "Menyelam"
+      ],
+      "fasilitas": [
+        "Area piknik",
+        "Tangga akses pantai"
+      ]
+    },
+    {
+      "nama": "Matira Beach",
+      "lokasi": "Bora Bora, Polinesia Prancis",
+      "deskripsi": "Matira Beach adalah pantai yang memikat dengan air jernih dan pasir putih. Terletak di pulau indah Bora Bora, pantai ini menawarkan keindahan alam yang menakjubkan.",
+      "aktivitas": [
+        "Berjemur",
+        "Bermain air",
+        "Jet ski"
+      ],
+      "fasilitas": [
+        "Restoran tepi pantai",
+        "Pusat penyewaan peralatan air"
+      ]
+    },
+    {
+      "nama": "El Nido, Palawan",
+      "lokasi": "Filipina",
+      "deskripsi": "El Nido adalah destinasi pantai yang penuh keindahan di Pulau Palawan. Terkenal dengan gugusan pulau karstnya, pantai ini menawarkan keindahan alam yang luar biasa.",
+      "aktivitas": [
+        "Island hopping",
+        "Snorkeling",
+        "Berjemur"
+      ],
+      "fasilitas": [
+        "Penginapan pantai",
+        "Warung makan lokal"
+      ]
+    },
+    {
+      "nama": "Seven Mile Beach",
+      "lokasi": "Jamaika",
+      "deskripsi": "Seven Mile Beach adalah pantai yang terkenal di Negril, Jamaika. Panjang pantai yang luar biasa ini menawarkan pasir putih yang lembut dan air laut yang tenang.",
+      "aktivitas": [
+        "Berjemur",
+        "Renang",
+        "Bermain pasir"
+      ],
+      "fasilitas": [
+        "Resor tepi pantai",
+        "Bar pantai"
+      ]
+    },
+    {
+      "nama": "Tunnels Beach",
+      "lokasi": "Kauai, Hawaii, Amerika Serikat",
+      "deskripsi": "Tunnels Beach dikenal dengan terumbu karangnya yang indah dan ombak yang cocok untuk berselancar. Pantai ini menjadi destinasi populer bagi para penyelam dan peselancar.",
+      "aktivitas": [
+        "Snorkeling",
+        "Berselancar",
+        "Piknik"
+      ],
+      "fasilitas": [
+        "Penyewaan peralatan selam",
+        "Area bersantai"
+      ]
+    }
+  ]
+}
